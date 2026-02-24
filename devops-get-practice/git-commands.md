@@ -10,6 +10,7 @@ basic workflows
  - git swich 
  - git branch
  - git stash
+ - git rebase
 viewing changes
  - git logs
  - git logs --oneline
